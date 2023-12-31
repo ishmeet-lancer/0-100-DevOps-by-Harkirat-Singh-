@@ -1,0 +1,15 @@
+git config --global user.name "Ishmeet Singh Saggu"
+git config --global user.email "xyz@gmail.com"
+
+# To initialize a git repository. It turns any directory into a Git repository.
+git init 
+
+# To add a file
+git add <file-name>
+git add .
+
+# To commit
+git commit -m "some relevant message"
+
+# To configure a remote repository
+git remote
