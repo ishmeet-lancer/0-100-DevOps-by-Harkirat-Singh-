@@ -26,4 +26,11 @@ git remote add origin https://github.com/ishmeet-lancer/devops.git
 
 # To push the code in git in branch master
 git push origin master
+git push origin <branch-name>
+
+# To fetch from some remote repository
+git fetch origin
+
+# To pull changes after fetching
+git pull origin <branch-name>
 
