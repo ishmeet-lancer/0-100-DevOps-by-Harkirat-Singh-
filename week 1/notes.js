@@ -1,3 +1,5 @@
+// For unit testing the command is $npx jest <relative-path-in-terminal>
+
 //  A good website to run your code is (https://replit.com/).
 // Javascript is an interpretor languagle.
 console.log("Hello World")
